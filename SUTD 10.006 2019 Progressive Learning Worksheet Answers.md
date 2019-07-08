@@ -1,12 +1,12 @@
 # **SUTD 10.006 Chemistry and Biology: The Natural World 2019 Progressive Learning Worksheet Answers**
 
-### **<u>Week 1</u>**
+### **Week 1**
 
 1. C
 
-2. a) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup> 4s<sup>1</sup>  OR [Ar] 3d<sup>5</sup> 4s<sup>1</sup>
+2. a) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup> 4s<sup>1</sup>  **OR** [Ar] 3d<sup>5</sup> 4s<sup>1</sup>
 
-   b) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>4</sup>  OR [Ar] 3d<sup>4</sup>
+   b) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>4</sup>  **OR** [Ar] 3d<sup>4</sup>
    
 3. D
 
@@ -36,7 +36,7 @@
 
 15. A
 
-### **<u>Week 2</u>**
+### **Week 2**
 
 1. D
 2. C
@@ -50,7 +50,7 @@
 |  PBr<sub>3</sub>  | <img src=".\Lewis_Structures\PBr3.jpg" width="200px" style="height:200px"/> |       4       |  Trigonal Pyramidal  |       107°       |
 |  PCl<sub>5</sub>  | <img src=".\Lewis_Structures\PCl5.png" width="200px" style="height:200px"/> |       5       | Trigonal Bipyramidal |   90° and 120°   |
 |  SCl<sub>4</sub>  | <img src=".\Lewis_Structures\SCl4.jpg" width="200px" style="height:200px"/> |       5       |       See-saw        |  <90° and <120°  |
-|  ICl<sub>3</sub>  | <img src=".\Lewis_Structures\ICl3.png" width="200px" style="height:200px"/> |       5       |  Distorted T-shape   | 87.5° (and 180°) |
+|  ICl<sub>3</sub>  | <img src=".\Lewis_Structures\ICl3.png" width="200px" style="height:200px"/> |       5       |  Distorted T-shaped   | 87.5° (and 180°) |
 
 5. B
 
@@ -76,7 +76,7 @@
 
 12. C
 
-### **<u>Week 3</u>**
+### **Week 3**
 
 1. D
 
@@ -112,7 +112,7 @@
 
    ​	Hydrogen bonds.
 
-### **<u>Week 4</u>**
+### **Week 4**
 
 1. D
 
@@ -168,7 +168,7 @@
 
 18. ΔH<sub>rxn</sub> = −1194 kJ/mol
 
-### **<u>Week 5</u>**
+### **Week 5**
 
 1. A
 
