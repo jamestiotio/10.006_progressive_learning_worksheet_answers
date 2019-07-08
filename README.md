@@ -6,6 +6,6 @@ As the instructors do not provide any official answers (except for a few questio
 
 ## DISCLAIMER
 
-This repository contains suggested answers (personally done by myself) for the Progressive Learning Worksheet Questions. There could be a possibility of mistakes being made (as I am an imperfect human). Please notify me about any corrections. I only provide final answers for checking here. For further working and steps necessary to get the actual marks during the examinations, please consult your instructor (or me, if I have some free time).
+This repository contains suggested answers (personally done by myself) for the Progressive Learning Worksheet Questions. There could be a possibility of mistakes being made (as I am an imperfect human). Please notify me about any corrections. Also, in cases where some of the officially-given answers and my answers disagree, I assure you that my answer is more accurate (you can help me cross-check these ones). I only provide final answers for checking here. For further working and steps necessary to get the actual marks during the examinations, please consult your instructor (or me, if I have some free time).
 
 I hope that this can be of assistance. All the best for your 10.006 examinations!
