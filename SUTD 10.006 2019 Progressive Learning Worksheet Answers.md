@@ -4,9 +4,9 @@
 
 1. C
 
-2. a) 1s^2^ 2s^2^ 2p^6^ 3s^2^ 3p^6^ 3d^5^ 4s^1^  ==OR== [Ar] 3d^5^4s^1^
+2. a) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>5</sup> 4s<sup>1</sup>  OR [Ar] 3d<sup>5</sup> 4s<sup>1</sup>
 
-   b) 1s^2^ 2s^2^ 2p^6^ 3s^2^ 3p^6^ 3d^4^  ==OR== [Ar] 3d^4^
+   b) 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6</sup> 3d<sup>4</sup>  OR [Ar] 3d<sup>4</sup>
    
 3. D
 
@@ -28,9 +28,9 @@
 
 12. D
 
-13. 1.16 × 10^16^ Cr atoms
+13. 1.16 × 10<sup>16</sup> Cr atoms
 
-14. 3NO~2~ + H~2~O → 2HNO~3~ + NO
+14. 3NO<sub>2</sub> + H<sub>2</sub>O → 2HNO<sub>3</sub> + NO
 
     8.21 g
 
@@ -45,18 +45,18 @@
 
 | Compound |                     Best Lewis Structure                     | Steric Number |   Molecular Shape    |  Bond Angle(s)   |
 | :------: | :----------------------------------------------------------: | :-----------: | :------------------: | :--------------: |
-|  BF~3~   | <img src=".\Lewis_Structures\BF3.png" width="200px" style="height:200px"/> |       3       |   Trigonal Planar    |       120°       |
-|  CCl~4~  | <img src=".\Lewis_Structures\CCl4.png" width="200px" style="height:200px"/> |       4       |     Tetrahedral      |      109.5°      |
-|  PBr~3~  | <img src=".\Lewis_Structures\PBr3.jpg" width="200px" style="height:200px"/> |       4       |  Trigonal Pyramidal  |       107°       |
-|  PCl~5~  | <img src=".\Lewis_Structures\PCl5.png" width="200px" style="height:200px"/> |       5       | Trigonal Bipyramidal |   90° and 120°   |
-|  SCl~4~  | <img src=".\Lewis_Structures\SCl4.jpg" width="200px" style="height:200px"/> |       5       |       See-saw        |  <90° and <120°  |
-|  ICl~3~  | <img src=".\Lewis_Structures\ICl3.png" width="200px" style="height:200px"/> |       5       |  Distorted T-shape   | 87.5° (and 180°) |
+|  BF<sub>3</sub>   | <img src=".\Lewis_Structures\BF3.png" width="200px" style="height:200px"/> |       3       |   Trigonal Planar    |       120°       |
+|  CCl<sub>4</sub>  | <img src=".\Lewis_Structures\CCl4.png" width="200px" style="height:200px"/> |       4       |     Tetrahedral      |      109.5°      |
+|  PBr<sub>3</sub>  | <img src=".\Lewis_Structures\PBr3.jpg" width="200px" style="height:200px"/> |       4       |  Trigonal Pyramidal  |       107°       |
+|  PCl<sub>5</sub>  | <img src=".\Lewis_Structures\PCl5.png" width="200px" style="height:200px"/> |       5       | Trigonal Bipyramidal |   90° and 120°   |
+|  SCl<sub>4</sub>  | <img src=".\Lewis_Structures\SCl4.jpg" width="200px" style="height:200px"/> |       5       |       See-saw        |  <90° and <120°  |
+|  ICl<sub>3</sub>  | <img src=".\Lewis_Structures\ICl3.png" width="200px" style="height:200px"/> |       5       |  Distorted T-shape   | 87.5° (and 180°) |
 
 5. B
 
 6. a) 888 kJ/mol
 
-   b) 194 kJ/mol (neglecting the small short-range repulsion between the ion cores of Li^+^ and F^-^)
+   b) 194 kJ/mol (neglecting the small short-range repulsion between the ion cores of Li<sup>+</sup> and F<sup>-</sup>)
 
    c) 7.15 Å
 
@@ -100,15 +100,15 @@
 
    ​	Disulfide bonds.
 
-   b)<img src=".\Amino_Acids_Interactions\Isoleucine-Valine.png" width="360px" style="height:200px"/>
+   b) <img src=".\Amino_Acids_Interactions\Isoleucine-Valine.png" width="360px" style="height:200px"/>
 
    ​	Van der Waals interactions.
 
-   c)<img src=".\Amino_Acids_Interactions\Glutamic_Acid-Lysine.png" width="250px" style="height:300px"/>
+   c) <img src=".\Amino_Acids_Interactions\Glutamic_Acid-Lysine.png" width="250px" style="height:300px"/>
 
    ​	Ion-ion interactions.
 
-   d)<img src=".\Amino_Acids_Interactions\Serine-Glutamine.png" width="500px" style="height:220px"/>
+   d) <img src=".\Amino_Acids_Interactions\Serine-Glutamine.png" width="500px" style="height:220px"/>
 
    ​	Hydrogen bonds.
 
@@ -120,7 +120,7 @@
 
 3. a) 2.52
 
-   b) No, the reaction is not at equilibrium. As Q > K~c~, the reaction will shift to the left to reach equilibrium.
+   b) No, the reaction is not at equilibrium. As Q > K<sub>c</sub>, the reaction will shift to the left to reach equilibrium.
 
 4. 605
 
@@ -132,17 +132,17 @@
 
 8. [CO] = 1.27 M
 
-   [H~2~O] = 0.269 M
+   [H<sub>2</sub>O] = 0.269 M
 
-   [CO~2~] = 0.731 M
+   [CO<sub>2</sub>] = 0.731 M
 
-   [H~2~] = 0.731 M
+   [H<sub>2</sub>] = 0.731 M
 
-9. [COCl~2~] = 0.480 M
+9. [COCl<sub>2</sub>] = 0.480 M
 
    [CO] = 0.0200 M
 
-   [Cl~2~] = 0.0200 M
+   [Cl<sub>2</sub>] = 0.0200 M
 
 10. 300 K
 
@@ -150,9 +150,9 @@
 
     b) −79.0 kJ/mol
 
-    c) 2.025 × 10^13^
+    c) 2.025 × 10<sup>13</sup>
 
-    ​	As the K~A~ value is very large (larger than for the monomer-ligand interaction), the binding affinity is very high for 	the dimer-ligand interaction (higher than the affinity for the monomer-ligand interaction).
+    ​	As the K<sub>A</sub> value is very large (larger than for the monomer-ligand interaction), the binding affinity is very high for the dimer-ligand interaction (higher than the affinity for the monomer-ligand interaction).
 
 12. C
 
@@ -166,7 +166,7 @@
 
 17. C
 
-18. ΔH~rxn~ = −1194 kJ/mol
+18. ΔH<sub>rxn</sub> = −1194 kJ/mol
 
 ### **<u>Week 5</u>**
 
@@ -184,7 +184,7 @@
 
 7. D
 
-8. [H~3~O^+^] = 5.46 × 10^−4^ M
+8. [H<sub>3</sub>O<sup>+</sup>] = 5.46 × 10<sup>−4</sup> M
 
    pH = 3.26
 
@@ -200,6 +200,6 @@
 
 12. Li(*s*)
 
-13. F~2~(*g*)
+13. F<sub>2</sub>(*g*)
 
 14. D
