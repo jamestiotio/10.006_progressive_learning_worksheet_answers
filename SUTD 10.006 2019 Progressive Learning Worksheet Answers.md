@@ -50,7 +50,7 @@
 |  PBr<sub>3</sub>  | <img src=".\Lewis_Structures\PBr3.jpg" width="200px" style="height:200px"/> |       4       |  Trigonal Pyramidal  |       107°       |
 |  PCl<sub>5</sub>  | <img src=".\Lewis_Structures\PCl5.png" width="200px" style="height:200px"/> |       5       | Trigonal Bipyramidal |   90° and 120°   |
 |  SCl<sub>4</sub>  | <img src=".\Lewis_Structures\SCl4.jpg" width="200px" style="height:200px"/> |       5       |       See-saw        |  <90° and <120°  |
-|  ICl<sub>3</sub>  | <img src=".\Lewis_Structures\ICl3.png" width="200px" style="height:200px"/> |       5       |  Distorted T-shaped   | 87.5° (and 180°) |
+|  ICl<sub>3</sub>  | <img src=".\Lewis_Structures\ICl3.png" width="200px" style="height:200px"/> |       5       |  T-shaped   | 87.5° (and 180°) |
 
 5. B
 
