@@ -227,9 +227,9 @@
 
 9. a) 2
 
-   b) Second step.
+   b) Second step
 
-   c) Exothermic.
+   c) Exothermic
 
 10. a) 272 kJ/mol
 
