@@ -39,8 +39,11 @@
 ### **Week 2**
 
 1. D
+
 2. C
+
 3. B
+
 4. A
 
 | Compound |                     Best Lewis Structure                     | Steric Number |   Molecular Shape    |  Bond Angle(s)   |
@@ -249,7 +252,6 @@
     b) It is not exactly consistent with the actual experimental rate law.
 
     c) (i) Rate = <img src=".\assets\Kinetics_Rate_Equations\Week_8_Q13c_i.gif" style="max-width:100%">
-
        (ii) Rate = <img src=".\assets\Kinetics_Rate_Equations\Week_8_Q13c_ii.gif" style="max-width:100%">
 
     ​		Only the case with low oxygen concentration is consistent with the actual experimental rate law, with <img src=".\assets\Kinetics_Rate_Equations\Week_8_Q13c_final.gif" style="max-width:100%">.
@@ -257,28 +259,41 @@
 ### Week 9
 
 1. E
+
 2. C
+
 3. B
+
 4. E
+
 5. A
+
 6. D
+
 7. A
+
 8. E
+
 9. B
+
 10. B
+
 11. C
+
 12. C
+
 13. C
+
 14. - Both are pathways for producing ATP by harvesting the chemical energy of food.
     - Both processes use glycolysis to oxidise glucose and other organic molecules to pyruvate, with a net production of 2 ATP by substrate-level phosphorylation.
     - In both processes, NAD<sup>+</sup> is the oxidising agent that accepts electrons from food during glycolysis.
     - In fermentation, there is only glycolysis (there is no citric acid cycle, electron transport chain and chemiosmosis) unlike in aerobic respiration.
     - In fermentation, the NAD<sup>+</sup> is regenerated from the conversion of pyruvate to lactate. In aerobic respiration, the NAD<sup>+</sup> is regenerated after donating the proton/electron that starts the electron transport chain.
     - Aerobic produces more ATP than fermentation.
+
 15. CO<sub>2</sub> is released from the pyruvate, which is the end product of glycolysis, through pyruvate oxidation. CO<sub>2</sub> is also released during the citric acid cycle.
+
 16. The proton-motive force (movement of H<sup>+</sup> down its concentration gradient from intermembrane space into the matrix) rotates the F<sub>0</sub> region of the ATP synthase situated in the mitochondria's inner membrane, specifically the c-subunits. The rotating c-subunits cause the γ-subunit (the internal rod) to spin, and this induces a conformational change in the β-subunit (in the F<sub>1</sub> region), which activates the binding of ADP and P<sub>i</sub> to produce ATP.
-
-
 
 ### Week 10
 
@@ -317,28 +332,43 @@
 ### Week 12
 
 1. C
+
 2. B
+
 3. D
+
 4. A
+
 5. C
+
 6. A
+
 7. B
+
 8. B
+
 9. A
+
 10. C
+
 11. B
+
 12. A
+
 13. A
+
 14. A
+
 15. Firstly, the RNA molecule should have uracil instead of thymine bases. Secondly, the polarity of the molecule is incorrectly labelled. The correct RNA molecule produced, using the bottom strand of the DNA duplex as a template, would be 5’-GGCAUGGCAAUAUUGUAGUA-3’.
+
 16. 5’-CUUCCAUCCA...-3’
+
 17. - A 5’-cap is added. A modified guanine is added to the 5’-end of mature mRNA. It promotes the exporting of the mRNA from the nucleus, protects the mRNA from degradation by exonucleases and also promotes ribosomal binding.
     - A poly-A tail, comprised of approximately 200 adenine molecules, is added to the 3’-end of the mature mRNA. It provides stability to the mature mRNA and prevents its degradation by exonucleases. It also promotes the exporting of the mRNA from the nucleus to the cytosol.
     - Introns are spliced out. Pre-mRNA comprises of introns and exons. Introns are non-coding sequences and will be removed, leaving only the protein-coding sequences which will be translated to make a polypeptide.
+
 18. - Stage 2: Peptide bond formation. The COOH-end of the growing polypeptide chain is uncoupled from the tRNA at the P site to form a peptide bond with the free -NH<sub>2</sub> group of the next amino acid at the A site.
     - Stage 3: Translocation. The large subunit shifts, moving the 2 tRNA-s into the E and P sites. The small subunit moves exactly 3 nucleotides back to its original position. During this process, one GTP molecule is consumed, while one GDP molecule and one P<sub>i</sub> molecule is produced. Finally, the spent tRNA at the E site is ejected. The ribosome is ready for the next aminoacyl tRNA.
-
-
 
 ### Week 13
 
